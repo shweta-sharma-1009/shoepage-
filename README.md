@@ -7,10 +7,10 @@ git hub repo  link - https://github.com/shweta-sharma-1009/shoepage-
 HTML -
 1. Created shoe page by using HTML web page and CSS and Linked both of them. (styleshee)
 <body>: This is like the main body of your webpage.
-Created <div class="container">: It's like the main section where you'll put your shoe details.
+Created <div class="container">: It's like the main section.(shoe details).
 <div class="shoe" style=" background: This is a container that represents a shoe. The "style" attribute adds a gradient background color that makes it look cool. It's like putting your shoe on a colorful platform.
 <div class="des">: This is another box within the shoe container. described shoe.
-<h1>Shoe-1</h1>: This is a big title that says "Shoe-1". It's like the name of your shoe.
+<h1>Shoe-1</h1>: This is a big title that says "Shoe-1". name of shoe.
 <p>: This is for paragraphs of text. Two paragraphs explaining the features of the shoe.
 <img class="shoe-1" src="URL" alt="shoe1">: This is an image of your shoe. The "class" attribute is like a label, used for styling. The "src" attribute put the web address (URL) of the image. The "alt" attribute provides a text description of the image in case it can't be shown.
 </div>: This closes the "des" container.
